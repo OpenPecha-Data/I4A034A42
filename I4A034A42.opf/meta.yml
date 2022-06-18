@@ -1,0 +1,38 @@
+id: I4A034A42
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T20:49:58.278860'
+last_modified: '2022-06-18T20:49:58.278871'
+parser: null
+source_metadata:
+  title: Record of Teachings Received by Gong dkar Phrin las rnam rgyals (17th cent.)
+  author: གོང་དཀར་འཕྲིན་ལས་རྣམ་རྒྱལ།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2020-01-18);
+    no thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།; This text was published by the rDzong pa'i
+    dpe rnying 'tshol bsdu khang. (src)
+  - Text input:རྫོང་པའི་དཔེ་རྙིང་འཚོལ་བསྡུ་ཁང་། (Tibet) (dpn)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/3131
+  bases:
+    79b6:
+      title: Record of Teachings Received by Gong dkar Phrin las rnam rgyals (17th
+        cent.)
+      order: 1
+      base_file: 79b6.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
